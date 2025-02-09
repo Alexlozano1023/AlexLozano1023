@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 
 
-<!--
-**Alexlozano1023/AlexLozano1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Alex Lozano, a Cognitive Science major with a passion for data science, machine learning, and firefighting. Here’s what I’m working on:
 
-Here are some ideas to get you started:
+- 🔭 **Current Projects**: Working in a linear regression model for machine learning.
+- 🌱 **Learning**: Python, R, and Java.
+- 🎸 **Fun Fact**: I play the acoustic guitar in a bluegrass club at UVA!
+- 📫 **Contact Me**: [alexfavio2@gmail.com](mailto:alexfavio2@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [My Machine Learning Portfolio](https://github.com/alex-lozano/ml-portfolio)
+- [Bluegrass Chords App](https://github.com/alex-lozano/bluegrass-chords)
+
+Thanks for visiting! 😊
+
